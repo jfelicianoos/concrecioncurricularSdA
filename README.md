@@ -1,2 +1,2 @@
 # concrecioncurricularSdA
-Concreción curricular parala SdA
+Concreción curricular para la SdA
